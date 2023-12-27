@@ -18,6 +18,8 @@ public class UserInput {
 
         System.out.println("Hello " + name + " your are " + age + " years old " + " you like " + food);
 
+        scanner.close();
+
     }
 
 }
